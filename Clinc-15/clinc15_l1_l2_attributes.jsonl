@@ -1,0 +1,151 @@
+{"L2 Cluster Index": 2, "L2 Cluster Name": "Bank Account Access Issues", "L2 Cluster Description": "Issues Related to Bank Account Access Restrictions", "L1 Cluster Index": 1}
+{"L2 Cluster Index": 20, "L2 Cluster Name": "Request to Block Bank Account", "L2 Cluster Description": "Requests to Freeze or Block Personal Bank Accounts", "L1 Cluster Index": 1}
+{"L2 Cluster Index": 35, "L2 Cluster Name": "Bank Account Balance Inquiries", "L2 Cluster Description": "Inquiries about Bank Account Balances", "L1 Cluster Index": 1}
+{"L2 Cluster Index": 45, "L2 Cluster Name": "Requesting Bank Routing Numbers", "L2 Cluster Description": "Requesting Routing Numbers for Various Banks", "L1 Cluster Index": 1}
+{"L2 Cluster Index": 89, "L2 Cluster Name": "Changing Account PIN Requests", "L2 Cluster Description": "Requests for assistance with changing banking PIN numbers", "L1 Cluster Index": 1}
+{"L2 Cluster Index": 108, "L2 Cluster Name": "Setting Up Direct Deposit", "L2 Cluster Description": "Instructions and Inquiries on Setting Up Direct Deposit", "L1 Cluster Index": 1}
+{"L2 Cluster Index": 127, "L2 Cluster Name": "Ordering More Checkbooks", "L2 Cluster Description": "\"Ordering More Checkbooks for Bank Accounts\"", "L1 Cluster Index": 1}
+{"L2 Cluster Index": 133, "L2 Cluster Name": "Bank Account Transfers", "L2 Cluster Description": "\"Instructions for Money Transfer Between Different Bank Accounts\"", "L1 Cluster Index": 1}
+{"L2 Cluster Index": 146, "L2 Cluster Name": "Bank Notification for Travels", "L2 Cluster Description": "Notifying bank about international travel plans", "L1 Cluster Index": 1}
+{"L2 Cluster Index": 6, "L2 Cluster Name": "Redeeming Credit Card Points", "L2 Cluster Description": "\"Redeeming Credit Card Points\"", "L1 Cluster Index": 2}
+{"L2 Cluster Index": 7, "L2 Cluster Name": "Interest Rate Inquiries", "L2 Cluster Description": "Inquiries about Interest Rates on Various Bank Accounts", "L1 Cluster Index": 1}
+{"L2 Cluster Index": 12, "L2 Cluster Name": "Reporting Lost/Stolen Cards", "L2 Cluster Description": "Reporting a stolen or lost credit/debit card", "L1 Cluster Index": 2}
+{"L2 Cluster Index": 28, "L2 Cluster Name": "Improving Credit Score", "L2 Cluster Description": "Methods to Improve and Maintain Credit Score", "L1 Cluster Index": 2}
+{"L2 Cluster Index": 41, "L2 Cluster Name": "Credit Limit Inquiries", "L2 Cluster Description": "Inquiries about Credit Card Limits", "L1 Cluster Index": 2}
+{"L2 Cluster Index": 44, "L2 Cluster Name": "Credit Card Expiry Inquiries", "L2 Cluster Description": "Inquiries about Credit Card Expiration Dates", "L1 Cluster Index": 2}
+{"L2 Cluster Index": 49, "L2 Cluster Name": "Card Decline Inquiries", "L2 Cluster Description": "Inquiries about Credit/Debit Card Declination Events", "L1 Cluster Index": 2}
+{"L2 Cluster Index": 50, "L2 Cluster Name": "Credit Card Rewards Inquiry", "L2 Cluster Description": "Inquiring About Credit Card Reward Points Balance", "L1 Cluster Index": 2}
+{"L2 Cluster Index": 69, "L2 Cluster Name": "Checking Credit Score", "L2 Cluster Description": "Inquiring About Personal Credit Score Information", "L1 Cluster Index": 2}
+{"L2 Cluster Index": 70, "L2 Cluster Name": "Reporting Fraudulent Transactions", "L2 Cluster Description": "Reporting fraudulent transactions or suspicious charges on credit/bank accounts", "L1 Cluster Index": 2}
+{"L2 Cluster Index": 87, "L2 Cluster Name": "Reporting Damaged Credit Cards", "L2 Cluster Description": "Reporting and Replacing Damaged Credit Cards", "L1 Cluster Index": 2}
+{"L2 Cluster Index": 90, "L2 Cluster Name": "Card Replacement Timeline Queries", "L2 Cluster Description": "\"Queries regarding timeline for new card delivery\"", "L1 Cluster Index": 2}
+{"L2 Cluster Index": 91, "L2 Cluster Name": "Applying for Credit Cards", "L2 Cluster Description": "Applying for Different Types of Credit Cards", "L1 Cluster Index": 2}
+{"L2 Cluster Index": 103, "L2 Cluster Name": "Credit Card Application Status", "L2 Cluster Description": "Inquiries about Credit Card Application Status", "L1 Cluster Index": 2}
+{"L2 Cluster Index": 109, "L2 Cluster Name": "Increasing Credit Card Limit", "L2 Cluster Description": "\"Inquiries about increasing credit card limits\"", "L1 Cluster Index": 2}
+{"L2 Cluster Index": 132, "L2 Cluster Name": "Credit Card APR Inquiries", "L2 Cluster Description": "Inquiries about Annual Percentage Rate (APR) on different credit cards.", "L1 Cluster Index": 2}
+{"L2 Cluster Index": 11, "L2 Cluster Name": "Querying Saved Name", "L2 Cluster Description": "Inquiries about how personal name is saved or referenced in the system", "L1 Cluster Index": 3}
+{"L2 Cluster Index": 55, "L2 Cluster Name": "Renaming AI Interface", "L2 Cluster Description": "Requests for changing the name of an AI entity", "L1 Cluster Index": 3}
+{"L2 Cluster Index": 75, "L2 Cluster Name": "Requesting Preferred Name", "L2 Cluster Description": "Inquiries about Preferred Personal Identification or Name", "L1 Cluster Index": 3}
+{"L2 Cluster Index": 144, "L2 Cluster Name": "Requesting Name Change", "L2 Cluster Description": "Discussion about changing or preferring specific names or nicknames.", "L1 Cluster Index": 3}
+{"L2 Cluster Index": 15, "L2 Cluster Name": "Hobbies and Leisure Activities", "L2 Cluster Description": "Inquiries about Personal Hobbies and Leisure Activities", "L1 Cluster Index": 4}
+{"L2 Cluster Index": 22, "L2 Cluster Name": "Exploring Life's Meaning", "L2 Cluster Description": "The texts are inquiries about the philosophical concept of the meaning of life.", "L1 Cluster Index": 4}
+{"L2 Cluster Index": 31, "L2 Cluster Name": "Unit Conversion Queries", "L2 Cluster Description": "The texts are related to unit conversion.", "L1 Cluster Index": 6}
+{"L2 Cluster Index": 33, "L2 Cluster Name": "Coin Flip Requests", "L2 Cluster Description": "Requests for Coin Flips and Results Reporting", "L1 Cluster Index": 6}
+{"L2 Cluster Index": 34, "L2 Cluster Name": "Queries About Pet Ownership", "L2 Cluster Description": "The topic is about asking about pet ownership and types of pets.", "L1 Cluster Index": 4}
+{"L2 Cluster Index": 36, "L2 Cluster Name": "Requesting for Jokes", "L2 Cluster Description": "Requests for funny jokes or humorous anecdotes", "L1 Cluster Index": 6}
+{"L2 Cluster Index": 42, "L2 Cluster Name": "Miscellaneous Information Queries", "L2 Cluster Description": "Various Questions Related to Media, Personal Development, Historical Events, and Education", "L1 Cluster Index": 6}
+{"L2 Cluster Index": 73, "L2 Cluster Name": "Spelling Inquiries", "L2 Cluster Description": "Queries Regarding Spelling of Various Words", "L1 Cluster Index": 6}
+{"L2 Cluster Index": 77, "L2 Cluster Name": "Birthplace Inquiries", "L2 Cluster Description": "The texts are inquiries about personal origin or birthplace.", "L1 Cluster Index": 4}
+{"L2 Cluster Index": 92, "L2 Cluster Name": "Dice Roll Requests", "L2 Cluster Description": "Requests for rolling a dice, possibly for a board game or role-playing game.", "L1 Cluster Index": 6}
+{"L2 Cluster Index": 96, "L2 Cluster Name": "AI Creation Inquiry", "L2 Cluster Description": "Inquiries about the creator or developer of the AI.", "L1 Cluster Index": 4}
+{"L2 Cluster Index": 99, "L2 Cluster Name": "AI Age Inquiries", "L2 Cluster Description": "Questions Asking for the Age or Creation Date of an AI Assistant", "L1 Cluster Index": 4}
+{"L2 Cluster Index": 115, "L2 Cluster Name": "AI Capabilities Inquiry", "L2 Cluster Description": "Inquiries about the capabilities and scope of an AI application or chatbot.", "L1 Cluster Index": 4}
+{"L2 Cluster Index": 117, "L2 Cluster Name": "Confirming Human or AI", "L2 Cluster Description": "Queries questioning whether they are communicating with a human or artificial intelligence.", "L1 Cluster Index": 4}
+{"L2 Cluster Index": 129, "L2 Cluster Name": "Requesting Interesting Trivia", "L2 Cluster Description": "Requesting Interesting Trivia or Fun Facts About Various Topics", "L1 Cluster Index": 6}
+{"L2 Cluster Index": 138, "L2 Cluster Name": "Mathematical Calculations Queries", "L2 Cluster Description": "Mathematical Queries and Calculations", "L1 Cluster Index": 6}
+{"L2 Cluster Index": 139, "L2 Cluster Name": "Seeking Word Definitions", "L2 Cluster Description": "Requests for definitions or explanations of various words", "L1 Cluster Index": 6}
+{"L2 Cluster Index": 149, "L2 Cluster Name": "Tourist Activities Recommendations", "L2 Cluster Description": "Inquiries about tourist activities in various locations.", "L1 Cluster Index": 11}
+{"L2 Cluster Index": 21, "L2 Cluster Name": "Identifying Song Queries", "L2 Cluster Description": "Requesting Identification of a Currently Playing Song", "L1 Cluster Index": 5}
+{"L2 Cluster Index": 106, "L2 Cluster Name": "Music Playback Requests", "L2 Cluster Description": "Requests for Music Playback", "L1 Cluster Index": 5}
+{"L2 Cluster Index": 118, "L2 Cluster Name": "Skipping to Next Song", "L2 Cluster Description": "Commands to Skip to the Next Song in a Playlist", "L1 Cluster Index": 5}
+{"L2 Cluster Index": 141, "L2 Cluster Name": "Adding Songs to Playlist", "L2 Cluster Description": "Adding Various Songs to Different Playlists", "L1 Cluster Index": 5}
+{"L2 Cluster Index": 13, "L2 Cluster Name": "Request for Repetition", "L2 Cluster Description": "Requests for repetition or clarification in communication.", "L1 Cluster Index": 6}
+{"L2 Cluster Index": 14, "L2 Cluster Name": "Whisper Mode Commands", "L2 Cluster Description": "Commands to activate or deactivate whisper mode in a voice-assisted application.", "L1 Cluster Index": 6}
+{"L2 Cluster Index": 17, "L2 Cluster Name": "Car Battery Jump Starting", "L2 Cluster Description": "Instructions for Jump Starting a Car", "L1 Cluster Index": 6}
+{"L2 Cluster Index": 29, "L2 Cluster Name": "Language Setting Adjustments", "L2 Cluster Description": "Requests for Changing the Language of Communication", "L1 Cluster Index": 6}
+{"L2 Cluster Index": 30, "L2 Cluster Name": "Denial or Disagreement Responses", "L2 Cluster Description": "Disagreement or Denial Statements in Banking Context", "L1 Cluster Index": 4}
+{"L2 Cluster Index": 51, "L2 Cluster Name": "Voice and Accent Modifications", "L2 Cluster Description": "Instructions to change voice and accent settings", "L1 Cluster Index": 6}
+{"L2 Cluster Index": 61, "L2 Cluster Name": "Translating Greetings/Expressions", "L2 Cluster Description": "The texts are about translating common phrases into different languages.", "L1 Cluster Index": 6}
+{"L2 Cluster Index": 67, "L2 Cluster Name": "Cancelling Dinner Reservations", "L2 Cluster Description": "Requesting Cancellation of Dining Reservations", "L1 Cluster Index": 15}
+{"L2 Cluster Index": 82, "L2 Cluster Name": "Greetings and Check-ins", "L2 Cluster Description": "Greetings and Checking in Conversations", "L1 Cluster Index": 4}
+{"L2 Cluster Index": 88, "L2 Cluster Name": "Reset to Factory Settings", "L2 Cluster Description": "Instructions for Resetting to Factory or Original Settings", "L1 Cluster Index": 6}
+{"L2 Cluster Index": 107, "L2 Cluster Name": "Confirmation/Validation Statements", "L2 Cluster Description": "Affirmations and Confirmations in Communication", "L1 Cluster Index": 4}
+{"L2 Cluster Index": 114, "L2 Cluster Name": "End of Conversation", "L2 Cluster Description": "Topic: Farewell expressions or closing a conversation", "L1 Cluster Index": 4}
+{"L2 Cluster Index": 119, "L2 Cluster Name": "Speech Speed Adjustments", "L2 Cluster Description": "Requests for Adjusting Speech Speed", "L1 Cluster Index": 6}
+{"L2 Cluster Index": 121, "L2 Cluster Name": "Uncertainty in Responses", "L2 Cluster Description": "Expressions of Uncertainty or Lack of Knowledge", "L1 Cluster Index": 4}
+{"L2 Cluster Index": 124, "L2 Cluster Name": "Appreciation/Thank You Messages", "L2 Cluster Description": "Expressions of Gratitude & Appreciation in Communication", "L1 Cluster Index": 4}
+{"L2 Cluster Index": 147, "L2 Cluster Name": "Command Cancellation Requests", "L2 Cluster Description": "Commands to Cancel or Stop an Ongoing Action or Process", "L1 Cluster Index": 6}
+{"L2 Cluster Index": 150, "L2 Cluster Name": "Volume Adjustment Requests", "L2 Cluster Description": "Instructions related to adjusting volume levels.", "L1 Cluster Index": 6}
+{"L2 Cluster Index": 16, "L2 Cluster Name": "Online Shopping Requests", "L2 Cluster Description": "Requests for ordering or purchasing various items online.", "L1 Cluster Index": 7}
+{"L2 Cluster Index": 43, "L2 Cluster Name": "Reviewing Shopping List", "L2 Cluster Description": "Requests for Information about Personal Shopping Lists", "L1 Cluster Index": 7}
+{"L2 Cluster Index": 48, "L2 Cluster Name": "To-do List Inquiries", "L2 Cluster Description": "Requests to Review or Recite Tasks from a Personal To-Do List", "L1 Cluster Index": 7}
+{"L2 Cluster Index": 53, "L2 Cluster Name": "Setting Reminders", "L2 Cluster Description": "\"Setting Reminders for Various Tasks\"", "L1 Cluster Index": 7}
+{"L2 Cluster Index": 65, "L2 Cluster Name": "To-Do List Management", "L2 Cluster Description": "Managing and updating to-do lists for household tasks.", "L1 Cluster Index": 7}
+{"L2 Cluster Index": 68, "L2 Cluster Name": "Recent Card Transactions", "L2 Cluster Description": "Requesting Information on Recent Card Transactions", "L1 Cluster Index": 2}
+{"L2 Cluster Index": 71, "L2 Cluster Name": "Personal Spending Tracking", "L2 Cluster Description": "Personal Expense Tracking and Analysis", "L1 Cluster Index": 7}
+{"L2 Cluster Index": 76, "L2 Cluster Name": "Accessing Reminder List", "L2 Cluster Description": "Requests for information about personal reminder lists", "L1 Cluster Index": 7}
+{"L2 Cluster Index": 84, "L2 Cluster Name": "Online Order Tracking Queries", "L2 Cluster Description": "Online Order Tracking Enquiries", "L1 Cluster Index": 7}
+{"L2 Cluster Index": 125, "L2 Cluster Name": "Managing Shopping List", "L2 Cluster Description": "Modifying and Managing Shopping List Items", "L1 Cluster Index": 7}
+{"L2 Cluster Index": 18, "L2 Cluster Name": "Meeting Scheduling Queries", "L2 Cluster Description": "Scheduling and Reserving Meeting Rooms", "L1 Cluster Index": 8}
+{"L2 Cluster Index": 19, "L2 Cluster Name": "Today's Meeting Inquiries", "L2 Cluster Description": "Inquiries about today's meeting schedule", "L1 Cluster Index": 8}
+{"L2 Cluster Index": 60, "L2 Cluster Name": "Calendar Schedule Inquiries", "L2 Cluster Description": "Inquiries about upcoming events on personal calendar.", "L1 Cluster Index": 8}
+{"L2 Cluster Index": 79, "L2 Cluster Name": "Paycheck Arrival Queries", "L2 Cluster Description": "Queries about Paycheck Timing and Dates", "L1 Cluster Index": 8}
+{"L2 Cluster Index": 95, "L2 Cluster Name": "Date Inquiry Queries", "L2 Cluster Description": "Inquiries about Current and Future Dates", "L1 Cluster Index": 8}
+{"L2 Cluster Index": 97, "L2 Cluster Name": "Requesting PTO/Vacation Time", "L2 Cluster Description": "Requests for Paid Time Off (PTO) or vacation scheduling", "L1 Cluster Index": 8}
+{"L2 Cluster Index": 101, "L2 Cluster Name": "Vacation Request Status", "L2 Cluster Description": "\"Status inquiries of vacation or day off requests\"", "L1 Cluster Index": 8}
+{"L2 Cluster Index": 105, "L2 Cluster Name": "Managing Calendar Events", "L2 Cluster Description": "Managing and updating events in a personal calendar.", "L1 Cluster Index": 8}
+{"L2 Cluster Index": 126, "L2 Cluster Name": "Remaining Vacation Days Inquiry", "L2 Cluster Description": "Inquiries about Remaining Vacation Days Balance", "L1 Cluster Index": 8}
+{"L2 Cluster Index": 140, "L2 Cluster Name": "Next Day Off Inquiries", "L2 Cluster Description": "Inquiries about Next Day Off or Holiday Schedule", "L1 Cluster Index": 8}
+{"L2 Cluster Index": 148, "L2 Cluster Name": "Tracking Leave Usage", "L2 Cluster Description": "Queries about utilization of paid-time-off, vacation, and personal leave.", "L1 Cluster Index": 8}
+{"L2 Cluster Index": 27, "L2 Cluster Name": "Monthly Bills Inquiry", "L2 Cluster Description": "Inquiries about current outstanding utility and service bills", "L1 Cluster Index": 9}
+{"L2 Cluster Index": 56, "L2 Cluster Name": "Bill Payment Due Dates", "L2 Cluster Description": "Inquiries about bill payment due dates.", "L1 Cluster Index": 9}
+{"L2 Cluster Index": 57, "L2 Cluster Name": "Employment Confirmation Queries", "L2 Cluster Description": "Inquiries about Employment Status and Employer Identity", "L1 Cluster Index": 9}
+{"L2 Cluster Index": 64, "L2 Cluster Name": "Insurance Plan Change Queries", "L2 Cluster Description": "Inquiring about Changing Insurance Plans", "L1 Cluster Index": 9}
+{"L2 Cluster Index": 74, "L2 Cluster Name": "Insurance Benefits Inquiry", "L2 Cluster Description": "Inquiries about Personal Insurance Benefits and Coverage Details", "L1 Cluster Index": 9}
+{"L2 Cluster Index": 93, "L2 Cluster Name": "Income Inquiry Queries", "L2 Cluster Description": "Inquiries about Personal Income and Salary Details", "L1 Cluster Index": 9}
+{"L2 Cluster Index": 94, "L2 Cluster Name": "Personal Tax Inquiries", "L2 Cluster Description": "Inquiries about Personal Tax Obligations and Deductions", "L1 Cluster Index": 9}
+{"L2 Cluster Index": 100, "L2 Cluster Name": "401k Rollover Assistance", "L2 Cluster Description": "\"Guidance Required for 401k Rollover or Transfer Process\"", "L1 Cluster Index": 9}
+{"L2 Cluster Index": 111, "L2 Cluster Name": "Bill Payment Assistance", "L2 Cluster Description": "Requests and inquiries about bill payments", "L1 Cluster Index": 9}
+{"L2 Cluster Index": 122, "L2 Cluster Name": "Acquiring W-2 Tax Forms", "L2 Cluster Description": "Inquiring about obtaining and locating W-2 tax forms.", "L1 Cluster Index": 9}
+{"L2 Cluster Index": 143, "L2 Cluster Name": "Minimum Bill Payment Queries", "L2 Cluster Description": "Inquiries about the minimum payment amounts on various bills.", "L1 Cluster Index": 9}
+{"L2 Cluster Index": 3, "L2 Cluster Name": "Car Oil Change Instructions", "L2 Cluster Description": "Instructions and Procedures for Changing Car Oil", "L1 Cluster Index": 10}
+{"L2 Cluster Index": 8, "L2 Cluster Name": "Car Fuel Type Inquiry", "L2 Cluster Description": "Inquiries about the type of fuel or gas required for a particular car", "L1 Cluster Index": 10}
+{"L2 Cluster Index": 37, "L2 Cluster Name": "Last Car Maintenance Inquiry", "L2 Cluster Description": "Inquiries about the last servicing or maintenance of a car.", "L1 Cluster Index": 10}
+{"L2 Cluster Index": 47, "L2 Cluster Name": "Tire Replacement Queries", "L2 Cluster Description": "Queries about When to Change or Replace Vehicle Tires", "L1 Cluster Index": 10}
+{"L2 Cluster Index": 98, "L2 Cluster Name": "Tire Pressure Inquiries", "L2 Cluster Description": "Checking and Understanding Car Tire Pressure", "L1 Cluster Index": 10}
+{"L2 Cluster Index": 110, "L2 Cluster Name": "Fuel/Gas Level Inquiries", "L2 Cluster Description": "Queries about the current fuel level in a vehicle's gas tank", "L1 Cluster Index": 10}
+{"L2 Cluster Index": 123, "L2 Cluster Name": "Oil Change Scheduling Queries", "L2 Cluster Description": "Queries about Timing for Vehicle Oil Changes", "L1 Cluster Index": 10}
+{"L2 Cluster Index": 131, "L2 Cluster Name": "Car Maintenance Scheduling", "L2 Cluster Description": "Scheduling Vehicle Maintenance and Repair Appointments", "L1 Cluster Index": 10}
+{"L2 Cluster Index": 142, "L2 Cluster Name": "Car Fuel Efficiency Queries", "L2 Cluster Description": "Inquiries about a car's fuel efficiency or miles per gallon (mpg).", "L1 Cluster Index": 10}
+{"L2 Cluster Index": 38, "L2 Cluster Name": "Currency Exchange Queries", "L2 Cluster Description": "Currency Exchange Rates Queries", "L1 Cluster Index": 11}
+{"L2 Cluster Index": 52, "L2 Cluster Name": "Travel Vaccination Inquiries", "L2 Cluster Description": "Inquiries about Required Vaccinations for International Travel", "L1 Cluster Index": 11}
+{"L2 Cluster Index": 59, "L2 Cluster Name": "International Travel Visas", "L2 Cluster Description": "Inquiries about needing a visa for international travel", "L1 Cluster Index": 11}
+{"L2 Cluster Index": 120, "L2 Cluster Name": "International Plug Converters", "L2 Cluster Description": "Questions about the type of plugs and socket converters used in different countries.", "L1 Cluster Index": 11}
+{"L2 Cluster Index": 128, "L2 Cluster Name": "Travel Alerts Information", "L2 Cluster Description": "Topic: Inquiries regarding current travel advisories and alerts for specific countries.", "L1 Cluster Index": 11}
+{"L2 Cluster Index": 137, "L2 Cluster Name": "International Card Transaction Fees", "L2 Cluster Description": "International Transaction Fees for Various Credit Cards", "L1 Cluster Index": 11}
+{"L2 Cluster Index": 5, "L2 Cluster Name": "Weather Forecast Inquiries", "L2 Cluster Description": "Inquiries and Discussions about Weather Forecasts and Conditions", "L1 Cluster Index": 12}
+{"L2 Cluster Index": 24, "L2 Cluster Name": "Traffic Information Queries", "L2 Cluster Description": "The texts are inquiries about traffic conditions towards various destinations.", "L1 Cluster Index": 12}
+{"L2 Cluster Index": 39, "L2 Cluster Name": "Requesting Uber Transportation", "L2 Cluster Description": "Requests for Uber transportation services", "L1 Cluster Index": 12}
+{"L2 Cluster Index": 40, "L2 Cluster Name": "Car Rental Inquiries", "L2 Cluster Description": "Requests for Car Rental Services", "L1 Cluster Index": 12}
+{"L2 Cluster Index": 62, "L2 Cluster Name": "Airline Carry-On Policies", "L2 Cluster Description": "\"Carry-on luggage rules and restrictions for various airlines\"", "L1 Cluster Index": 12}
+{"L2 Cluster Index": 63, "L2 Cluster Name": "Booking Flight Requests", "L2 Cluster Description": "Requests for flight booking and pricing information", "L1 Cluster Index": 12}
+{"L2 Cluster Index": 72, "L2 Cluster Name": "Directions to Various Locations", "L2 Cluster Description": "Directions and Transportation to Various Locations", "L1 Cluster Index": 12}
+{"L2 Cluster Index": 78, "L2 Cluster Name": "Travel Time Estimations", "L2 Cluster Description": "Inquiries about estimated travel duration to various destinations.", "L1 Cluster Index": 12}
+{"L2 Cluster Index": 80, "L2 Cluster Name": "Flight Status Inquiries", "L2 Cluster Description": "Inquiries about Flight Status and Schedules", "L1 Cluster Index": 12}
+{"L2 Cluster Index": 113, "L2 Cluster Name": "Lost Luggage Assistance", "L2 Cluster Description": "Lost or missing luggage scenarios in airline travel.", "L1 Cluster Index": 12}
+{"L2 Cluster Index": 4, "L2 Cluster Name": "Current Time Inquiries", "L2 Cluster Description": "Inquiries About Current Time in Various Timezones", "L1 Cluster Index": 13}
+{"L2 Cluster Index": 10, "L2 Cluster Name": "Home Automation Commands", "L2 Cluster Description": "Home automation and security commands", "L1 Cluster Index": 13}
+{"L2 Cluster Index": 25, "L2 Cluster Name": "Initiating Phone Calls", "L2 Cluster Description": "Instructions for Making Phone Calls to Various Individuals", "L1 Cluster Index": 13}
+{"L2 Cluster Index": 26, "L2 Cluster Name": "Text Messaging Instructions", "L2 Cluster Description": "Requesting to Send Text Messages on Behalf", "L1 Cluster Index": 13}
+{"L2 Cluster Index": 32, "L2 Cluster Name": "Setting Timers Requests", "L2 Cluster Description": "Setting up and requesting timers.", "L1 Cluster Index": 13}
+{"L2 Cluster Index": 58, "L2 Cluster Name": "Sharing GPS Location", "L2 Cluster Description": "Sharing or Disclosing GPS Location Information", "L1 Cluster Index": 13}
+{"L2 Cluster Index": 66, "L2 Cluster Name": "Global Timezone Inquiries", "L2 Cluster Description": "Queries about different global time zones.", "L1 Cluster Index": 6}
+{"L2 Cluster Index": 81, "L2 Cluster Name": "Locating Lost Phone", "L2 Cluster Description": "Lost Phone Assistance and Location Services", "L1 Cluster Index": 13}
+{"L2 Cluster Index": 83, "L2 Cluster Name": "Setting Alarm Requests", "L2 Cluster Description": "Setting up alarm requests", "L1 Cluster Index": 13}
+{"L2 Cluster Index": 130, "L2 Cluster Name": "Phone Connectivity Requests", "L2 Cluster Description": "Phone Connectivity Requests and Commands", "L1 Cluster Index": 13}
+{"L2 Cluster Index": 136, "L2 Cluster Name": "Requesting Current Location", "L2 Cluster Description": "Requests for Current GPS Location Information", "L1 Cluster Index": 13}
+{"L2 Cluster Index": 1, "L2 Cluster Name": "Nutritional Information Inquiry", "L2 Cluster Description": "Requesting Nutritional Information for Various Foods", "L1 Cluster Index": 14}
+{"L2 Cluster Index": 54, "L2 Cluster Name": "Food Preservation Duration", "L2 Cluster Description": "Food storage and shelf life inquiries", "L1 Cluster Index": 14}
+{"L2 Cluster Index": 86, "L2 Cluster Name": "Cooking Time Queries", "L2 Cluster Description": "Queries about cooking times for various foods.", "L1 Cluster Index": 14}
+{"L2 Cluster Index": 104, "L2 Cluster Name": "Recipe Information Requests", "L2 Cluster Description": "Requests for Various Food Recipes", "L1 Cluster Index": 14}
+{"L2 Cluster Index": 112, "L2 Cluster Name": "Recipe Ingredient Queries", "L2 Cluster Description": "Inquiries about necessary ingredients for various dishes", "L1 Cluster Index": 14}
+{"L2 Cluster Index": 134, "L2 Cluster Name": "Ingredient Substitution Queries", "L2 Cluster Description": "Food Ingredient Substitutions in Cooking and Baking", "L1 Cluster Index": 14}
+{"L2 Cluster Index": 135, "L2 Cluster Name": "Caloric Content Inquiry", "L2 Cluster Description": "Queries about Calorie Content in Various Food Items", "L1 Cluster Index": 14}
+{"L2 Cluster Index": 0, "L2 Cluster Name": "Restaurant Reviews Inquiry", "L2 Cluster Description": "Queries about various restaurant ratings and reviews", "L1 Cluster Index": 15}
+{"L2 Cluster Index": 9, "L2 Cluster Name": "Restaurant Reservation Inquiries", "L2 Cluster Description": "Inquiring about restaurant reservation policies.", "L1 Cluster Index": 15}
+{"L2 Cluster Index": 23, "L2 Cluster Name": "Restaurant Reservation Requests", "L2 Cluster Description": "Making restaurant reservations for various group sizes and times.", "L1 Cluster Index": 15}
+{"L2 Cluster Index": 46, "L2 Cluster Name": "Dinner Meal Suggestions", "L2 Cluster Description": "Requests for meal or dinner suggestions from various cuisines.", "L1 Cluster Index": 15}
+{"L2 Cluster Index": 85, "L2 Cluster Name": "Confirming Restaurant Reservations", "L2 Cluster Description": "Reservation Confirmation Requests at Various Restaurants", "L1 Cluster Index": 15}
+{"L2 Cluster Index": 102, "L2 Cluster Name": "Restaurant Crowd Predictions", "L2 Cluster Description": "Anticipating Restaurant Crowd and Wait Times", "L1 Cluster Index": 15}
+{"L2 Cluster Index": 116, "L2 Cluster Name": "Hotel Booking Requests", "L2 Cluster Description": "Hotel Booking Requests in Various Locations", "L1 Cluster Index": 15}
+{"L2 Cluster Index": 145, "L2 Cluster Name": "Restaurant Recommendations Queries", "L2 Cluster Description": "Requests for Restaurant Recommendations and Food Suggestions", "L1 Cluster Index": 15}

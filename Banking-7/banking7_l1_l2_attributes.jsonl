@@ -1,0 +1,77 @@
+{"L2 Cluster Index": 0, "L2 Cluster Name": "Card Activation Assistance", "L2 Cluster Description": "\"Problems and Inquiries regarding Credit/Debit Card Activation\"", "L1 Cluster Index": 1}
+{"L2 Cluster Index": 9, "L2 Cluster Name": "Card Expiry and Replacement", "L2 Cluster Description": "Queries about card expiration and renewal process", "L1 Cluster Index": 1}
+{"L2 Cluster Index": 10, "L2 Cluster Name": "Card Usage Locations", "L2 Cluster Description": "Queries about the Usage and Acceptance of a Payment Card", "L1 Cluster Index": 1}
+{"L2 Cluster Index": 11, "L2 Cluster Name": "Card Delivery Concerns", "L2 Cluster Description": "Queries and concerns about delayed card delivery", "L1 Cluster Index": 1}
+{"L2 Cluster Index": 12, "L2 Cluster Name": "Card Delivery Duration Queries", "L2 Cluster Description": "Queries about card delivery timeline", "L1 Cluster Index": 1}
+{"L2 Cluster Index": 13, "L2 Cluster Name": "Card Linking in App", "L2 Cluster Description": "Linking and Managing Cards in a Banking App", "L1 Cluster Index": 1}
+{"L2 Cluster Index": 14, "L2 Cluster Name": "Card Functionality Issues", "L2 Cluster Description": "Issues with Non-Functioning Payment Cards", "L1 Cluster Index": 1}
+{"L2 Cluster Index": 22, "L2 Cluster Name": "Unauthorised Card Transactions", "L2 Cluster Description": "Suspected Unauthorized Use or Theft of Credit Card Information", "L1 Cluster Index": 1}
+{"L2 Cluster Index": 23, "L2 Cluster Name": "Contactless Payment Issues", "L2 Cluster Description": "Issues and Queries Regarding Contactless Payments and Cards", "L1 Cluster Index": 1}
+{"L2 Cluster Index": 24, "L2 Cluster Name": "Card Availability by Country", "L2 Cluster Description": "Availability and Restrictions of Banking Cards across Different Countries", "L1 Cluster Index": 1}
+{"L2 Cluster Index": 29, "L2 Cluster Name": "Disposable Cards Usage Limitations", "L2 Cluster Description": "\"Queries and Restrictions Regarding Disposable Cards\"", "L1 Cluster Index": 1}
+{"L2 Cluster Index": 37, "L2 Cluster Name": "Disposable Virtual Cards Queries", "L2 Cluster Description": "\"Information and Inquiries about Disposable Virtual Cards\"", "L1 Cluster Index": 1}
+{"L2 Cluster Index": 39, "L2 Cluster Name": "Requesting Additional Cards", "L2 Cluster Description": "Queries about ordering, cost, and process for obtaining additional bank cards.", "L1 Cluster Index": 1}
+{"L2 Cluster Index": 40, "L2 Cluster Name": "Acquiring Virtual Card Queries", "L2 Cluster Description": "Obtaining and Troubleshooting Virtual Cards", "L1 Cluster Index": 1}
+{"L2 Cluster Index": 41, "L2 Cluster Name": "Lost/Stolen Card Assistance", "L2 Cluster Description": "Reporting and Seeking Assistance for Lost or Stolen Cards", "L1 Cluster Index": 1}
+{"L2 Cluster Index": 43, "L2 Cluster Name": "Obtaining Physical Bank Cards", "L2 Cluster Description": "Inquiries about Ordering and Receiving Physical Bank Cards", "L1 Cluster Index": 1}
+{"L2 Cluster Index": 72, "L2 Cluster Name": "Virtual Card Troubleshooting", "L2 Cluster Description": "Issues with Using Virtual/Disposable Cards", "L1 Cluster Index": 1}
+{"L2 Cluster Index": 73, "L2 Cluster Name": "Obtaining Visa or Mastercard", "L2 Cluster Description": "Inquiring about Obtaining Visa or Mastercard", "L1 Cluster Index": 1}
+{"L2 Cluster Index": 1, "L2 Cluster Name": "Account Age Requirements", "L2 Cluster Description": "\"Age requirements for opening a bank account\"", "L1 Cluster Index": 2}
+{"L2 Cluster Index": 21, "L2 Cluster Name": "Changing ATM PIN Queries", "L2 Cluster Description": "\"Queries about Changing ATM PIN\"", "L1 Cluster Index": 1}
+{"L2 Cluster Index": 30, "L2 Cluster Name": "Updating Personal Account Details", "L2 Cluster Description": "\"Updating Personal Information After Life Events\"", "L1 Cluster Index": 2}
+{"L2 Cluster Index": 38, "L2 Cluster Name": "Queries About Card PIN", "L2 Cluster Description": "Inquiries about obtaining and receiving credit/debit card PINs.", "L1 Cluster Index": 1}
+{"L2 Cluster Index": 42, "L2 Cluster Name": "Stolen/Lost Phone Protocol", "L2 Cluster Description": "Guidance on app usage and account security after phone theft or loss.", "L1 Cluster Index": 2}
+{"L2 Cluster Index": 44, "L2 Cluster Name": "Forgotten/Reset Passcode Issues", "L2 Cluster Description": "Issues related to forgetting or resetting passcodes or passwords", "L1 Cluster Index": 2}
+{"L2 Cluster Index": 49, "L2 Cluster Name": "PIN Unblock Assistance", "L2 Cluster Description": "Issues and Queries Regarding Blocked or Locked ATM/Debit Card PINs", "L1 Cluster Index": 1}
+{"L2 Cluster Index": 55, "L2 Cluster Name": "Account Closure Requests", "L2 Cluster Description": "Requests for Account Closure or Deletion Due to Dissatisfaction with Services", "L1 Cluster Index": 2}
+{"L2 Cluster Index": 68, "L2 Cluster Name": "Identity Verification Issues", "L2 Cluster Description": "Issues with Identity Verification in Banking Apps", "L1 Cluster Index": 2}
+{"L2 Cluster Index": 69, "L2 Cluster Name": "Identity Verification Process", "L2 Cluster Description": "\"Procedures and Requirements for Identity Verification\"", "L1 Cluster Index": 2}
+{"L2 Cluster Index": 74, "L2 Cluster Name": "Identity Verification Queries", "L2 Cluster Description": "Queries and Concerns about Identity Verification", "L1 Cluster Index": 2}
+{"L2 Cluster Index": 17, "L2 Cluster Name": "Incorrect Exchange Rate Issues", "L2 Cluster Description": "Issues with Incorrect Exchange Rates in Transactions", "L1 Cluster Index": 3}
+{"L2 Cluster Index": 31, "L2 Cluster Name": "Currency Exchange Fees", "L2 Cluster Description": "Currency Exchange Fees and Charges", "L1 Cluster Index": 3}
+{"L2 Cluster Index": 32, "L2 Cluster Name": "Understanding Exchange Rates", "L2 Cluster Description": "Inquiries about Foreign Exchange Rates", "L1 Cluster Index": 3}
+{"L2 Cluster Index": 33, "L2 Cluster Name": "Currency Exchange Queries", "L2 Cluster Description": "Currency Exchange Queries in Mobile Apps", "L1 Cluster Index": 3}
+{"L2 Cluster Index": 36, "L2 Cluster Name": "Supported Fiat Currencies", "L2 Cluster Description": "Support and Exchange of Multiple Currencies", "L1 Cluster Index": 3}
+{"L2 Cluster Index": 50, "L2 Cluster Name": "Salary Currency Transfers", "L2 Cluster Description": "Receiving and Transferring Salary in Different Currencies", "L1 Cluster Index": 3}
+{"L2 Cluster Index": 76, "L2 Cluster Name": "Erroneous Currency Exchange", "L2 Cluster Description": "Issues with incorrect exchange rates during cash withdrawals", "L1 Cluster Index": 3}
+{"L2 Cluster Index": 2, "L2 Cluster Name": "Top-Up with Digital Payments", "L2 Cluster Description": "Using Google Pay and Apple Pay for account top-up Issues", "L1 Cluster Index": 4}
+{"L2 Cluster Index": 4, "L2 Cluster Name": "Auto Top-Up Queries", "L2 Cluster Description": "\"Queries related to Auto Top-Up feature in Banking\"", "L1 Cluster Index": 4}
+{"L2 Cluster Index": 47, "L2 Cluster Name": "Pending Top-Up Issues", "L2 Cluster Description": "Issues and queries related to pending top-up transactions in banking.", "L1 Cluster Index": 4}
+{"L2 Cluster Index": 54, "L2 Cluster Name": "Card and Currency Acceptance", "L2 Cluster Description": "Queries about accepted cards and currencies for account top-up", "L1 Cluster Index": 4}
+{"L2 Cluster Index": 57, "L2 Cluster Name": "International Card Top-Up Fees", "L2 Cluster Description": "Fees associated with topping up using international or US bank cards", "L1 Cluster Index": 4}
+{"L2 Cluster Index": 58, "L2 Cluster Name": "Top-Up via Cheque Queries", "L2 Cluster Description": "Queries about topping up bank account with a cheque or cash.", "L1 Cluster Index": 4}
+{"L2 Cluster Index": 59, "L2 Cluster Name": "Top-Up Issues and Enquiries", "L2 Cluster Description": "Issues with Top-Up Transactions in Banking", "L1 Cluster Index": 4}
+{"L2 Cluster Index": 60, "L2 Cluster Name": "Top-Up Limit Inquiries", "L2 Cluster Description": "Inquiries about top-up limits in banking", "L1 Cluster Index": 4}
+{"L2 Cluster Index": 61, "L2 Cluster Name": "Top-Up Transaction Issues", "L2 Cluster Description": "Issues related to failed or cancelled top-up transactions in a banking account", "L1 Cluster Index": 4}
+{"L2 Cluster Index": 62, "L2 Cluster Name": "Card Top-Up Issues", "L2 Cluster Description": "\"Queries and Issues related to Card-Based Account Top-Up\"", "L1 Cluster Index": 4}
+{"L2 Cluster Index": 71, "L2 Cluster Name": "Top-Up Card Verification", "L2 Cluster Description": "\"Verification Process and Queries for Top-Up Cards\"", "L1 Cluster Index": 4}
+{"L2 Cluster Index": 5, "L2 Cluster Name": "Delayed Money Transfers", "L2 Cluster Description": "Concerns about Delayed Display of Transferred Money in Bank Accounts", "L1 Cluster Index": 5}
+{"L2 Cluster Index": 6, "L2 Cluster Name": "Unreflected Deposit Inquiries", "L2 Cluster Description": "Issues related to delay in deposit reflection in bank accounts", "L1 Cluster Index": 5}
+{"L2 Cluster Index": 7, "L2 Cluster Name": "Trouble Transferring to Beneficiary", "L2 Cluster Description": "Issues and inquiries regarding inability to transfer money to a beneficiary in a banking context.", "L1 Cluster Index": 5}
+{"L2 Cluster Index": 27, "L2 Cluster Name": "Declined Transfer Issues", "L2 Cluster Description": "Issues with Bank Transfers being Declined", "L1 Cluster Index": 5}
+{"L2 Cluster Index": 35, "L2 Cluster Name": "Failed Money Transfers", "L2 Cluster Description": "Issues and queries related to failed money transfers.", "L1 Cluster Index": 5}
+{"L2 Cluster Index": 48, "L2 Cluster Name": "Pending Transfer Inquiries", "L2 Cluster Description": "Queries about Pending Money Transfers", "L1 Cluster Index": 5}
+{"L2 Cluster Index": 56, "L2 Cluster Name": "Bank Transfer Fees", "L2 Cluster Description": "Queries about Fees Associated with Money Transfers and Bank Top-ups", "L1 Cluster Index": 5}
+{"L2 Cluster Index": 64, "L2 Cluster Name": "Transfer Fee Inquiries", "L2 Cluster Description": "Queries and concerns about transfer fees in banking transactions.", "L1 Cluster Index": 5}
+{"L2 Cluster Index": 65, "L2 Cluster Name": "Money Transfer to Account", "L2 Cluster Description": "\"Instructions and Queries about Transferring Money into Bank Account\"", "L1 Cluster Index": 5}
+{"L2 Cluster Index": 66, "L2 Cluster Name": "Transfer Completion Queries", "L2 Cluster Description": "Issues Related to Delayed Money Transfers", "L1 Cluster Index": 5}
+{"L2 Cluster Index": 67, "L2 Cluster Name": "Transfer Processing Duration", "L2 Cluster Description": "Duration of International Money Transfers", "L1 Cluster Index": 5}
+{"L2 Cluster Index": 3, "L2 Cluster Name": "ATM Usage and Locations", "L2 Cluster Description": "Finding and Using ATMs Compatible with Specific Cards", "L1 Cluster Index": 6}
+{"L2 Cluster Index": 18, "L2 Cluster Name": "ATM Card Retrieval Issues", "L2 Cluster Description": "\"Resolving issues with ATM retaining or not returning debit/credit cards\"", "L1 Cluster Index": 6}
+{"L2 Cluster Index": 19, "L2 Cluster Name": "ATM Withdrawal Fee Queries", "L2 Cluster Description": "Queries about ATM withdrawal fees", "L1 Cluster Index": 6}
+{"L2 Cluster Index": 26, "L2 Cluster Name": "ATM Withdrawal Issues", "L2 Cluster Description": "Issues with ATM Withdrawals", "L1 Cluster Index": 6}
+{"L2 Cluster Index": 46, "L2 Cluster Name": "Pending ATM Withdrawals", "L2 Cluster Description": "Queries and Concerns about Pending ATM Withdrawals", "L1 Cluster Index": 6}
+{"L2 Cluster Index": 75, "L2 Cluster Name": "ATM Incorrect Cash Dispensing", "L2 Cluster Description": "Issues with ATM not dispensing the correct amount of cash", "L1 Cluster Index": 6}
+{"L2 Cluster Index": 8, "L2 Cluster Name": "Cancelling Incorrect Transfers", "L2 Cluster Description": "Requesting Assistance to Cancel Incorrect or Unwanted Bank Transfers", "L1 Cluster Index": 5}
+{"L2 Cluster Index": 15, "L2 Cluster Name": "Card Payment Extra Fee", "L2 Cluster Description": "Queries about additional charges on card payments", "L1 Cluster Index": 7}
+{"L2 Cluster Index": 16, "L2 Cluster Name": "Unrecognized Card Payments", "L2 Cluster Description": "\"Concerns and Confusion Over Unrecognized or Unauthorized Card Payments\"", "L1 Cluster Index": 7}
+{"L2 Cluster Index": 20, "L2 Cluster Name": "Unrecognized Cash Withdrawals", "L2 Cluster Description": "Concerns about Unauthorized Cash Withdrawals from Bank Accounts", "L1 Cluster Index": 5}
+{"L2 Cluster Index": 25, "L2 Cluster Name": "Card Payment Decline Issues", "L2 Cluster Description": "Issues and queries related to declined card payments.", "L1 Cluster Index": 7}
+{"L2 Cluster Index": 28, "L2 Cluster Name": "Disputing Unrecognized Direct Debits", "L2 Cluster Description": "Unrecognized or Unauthorized Direct Debit Charges", "L1 Cluster Index": 7}
+{"L2 Cluster Index": 34, "L2 Cluster Name": "Unexplained Extra Charges", "L2 Cluster Description": "Inquiries about unexpected additional $1/£1/€1 charge on banking statements.", "L1 Cluster Index": 5}
+{"L2 Cluster Index": 45, "L2 Cluster Name": "Pending Payment Queries", "L2 Cluster Description": "Concerns and Questions about Pending Card Payments", "L1 Cluster Index": 7}
+{"L2 Cluster Index": 51, "L2 Cluster Name": "Refund Processing Issues", "L2 Cluster Description": "Issues and queries related to non-receipt of refunds", "L1 Cluster Index": 7}
+{"L2 Cluster Index": 52, "L2 Cluster Name": "Refund Requests Process", "L2 Cluster Description": "Queries Regarding Purchase Refunds and Cancellations", "L1 Cluster Index": 7}
+{"L2 Cluster Index": 53, "L2 Cluster Name": "Reverted Card Payments", "L2 Cluster Description": "Issues with Reverted or Returned Card Payments", "L1 Cluster Index": 7}
+{"L2 Cluster Index": 63, "L2 Cluster Name": "Double Charge Complaints", "L2 Cluster Description": "Issues with Duplicate or Double Charges in Bank Transactions", "L1 Cluster Index": 7}
+{"L2 Cluster Index": 70, "L2 Cluster Name": "Identifying Funds Source", "L2 Cluster Description": "Understanding and Proving the Source of Funds", "L1 Cluster Index": 5}
