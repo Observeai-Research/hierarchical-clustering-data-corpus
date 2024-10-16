@@ -1,3 +1,36 @@
+Attribution for Clinc-15:
+    This dataset is derived from the original work titled "An Evaluation Dataset for Intent Classification and
+    Out-of-Scope Prediction", conducted by Clinc, Inc. and Ann Arbor, MI, USA.
+    We acknowledge and give credit to the authors of the original dataset for their valuable contribution to the
+    research community:
+
+    Original Authors: Stefan Larson, Anish Mahendran, Joseph J. Peper, Christopher Clarke, Andrew Lee, Parker Hill,
+    Jonathan K. Kummerfeld, Kevin Leach, Michael A. Laurenzano, Lingjia Tang, Jason Mars
+    Original Dataset Name: Clinc150
+    Link to Original Dataset: https://github.com/clinc/oos-eval/tree/master
+
+Attribution for Banking-7:
+    This dataset is derived from the original work titled "Efficient Intent Detection with Dual Sentence Encoders",
+    conducted by PolyAI Limited. London, United Kingdom.
+    We acknowledge and give credit to the authors of the original dataset for their valuable contribution to the
+    research community:
+
+    Original Authors: Inigo Casanueva, Tadas Temcinas, Daniela Gerz, Matthew Henderson, Ivan Vulic
+    Original Dataset Name: Banking77
+    Link to Original Dataset: https://github.com/PolyAI-LDN/task-specific-datasets/tree/master/banking_data
+
+Modifications in the original Clinc-150 & Banking-77 datasets:
+
+    The datasets introduced as a part of this work are modifications on top of the original, created as part of
+    research to further progress in the area of hierarchical clustering. These modifications include transforming the
+    original datasets into hierarchical levels. The depth in hierarchy is set to 2, where the first level (L1)
+    represents the broader intents and second level (L2) represents the granular intents.
+    The original dataset Banking77 is transformed into hierarchical levels with 77 L2 intents and 7 L1 intents.
+    Similarly, the other dataset Clinc150 is modified with 150 L2 intents and 15 L1 intents.
+
+    By using this modified dataset, we agree to give appropriate credit to the original authors as per the terms of
+    the Creative Commons license.
+
 Creative Commons Legal Code
 
 CC0 1.0 Universal
